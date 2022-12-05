@@ -1,4 +1,4 @@
-##     Kaggle competition - Predicción de salarios en Data
+## Kaggle competition - Predicción de salarios en Data
 
 ![salario](https://user-images.githubusercontent.com/112175733/205720744-a244d4d4-c66f-460f-a964-0dd6a50b76f3.png)
 
