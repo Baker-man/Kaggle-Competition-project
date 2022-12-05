@@ -1,8 +1,7 @@
 ##      >>Competición de Kaggle para Bootcamp de Data OCT'22:snake: semana 7 en [Ironhack](https://www.ironhack.com/)<<
 
-<p align="center"> <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/predict.jpg" width="700" height="350">  </p>
+![salario](https://user-images.githubusercontent.com/112175733/205720744-a244d4d4-c66f-460f-a964-0dd6a50b76f3.png)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  [¡¡¡QUE EMPIECE EL JUEGO!!!](https://www.kaggle.com/competitions/predecir-salario-data)  
 
 ## 📁ESTRUCTURA
 
@@ -39,7 +38,7 @@
 - *company_size:* The median number of people that worked for the company during the year
 
 
-## 📈OBJECTIVO
+## 📈OBJETIVO
 
 - Preparar los datos para los diversos modelos (proceso empírico) 
 - Entrenar y Testear modelos de Machine Learning
@@ -47,9 +46,11 @@
 - Hacer pull request con la presentación en la carpeta de 'PPTS' 
 - Crear repo propio del proyecto (issue)
 
-<br />
+## 🗒 PASOS SEGUIDOS
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <bn > 💁🏻‍♀️💁🏻  ORI Y ADRI LES DESEAMOS HAPPY MACHINE LEARNING WEEK  <bn />
+![steps](https://user-images.githubusercontent.com/112175733/205721853-0d5c5c8f-dc7a-44bb-9238-2233787005b7.png)
 
-<p align="center"> <img src="https://github.com/OrianAmpuero/Kaggle_Competition/blob/main/img/jijiji.gif" width="500" height="250">   </p>
 
+## 🌍PREDICCIÓN 
+
+![prediction](https://user-images.githubusercontent.com/112175733/205721422-ef3fba88-1ca4-4296-ae63-889bd2ef7a76.png)
